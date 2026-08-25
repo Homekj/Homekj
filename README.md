@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homekj&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Homekj)
-![23516's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Homekj)
-
-| ![Homekj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homekj&show_icons=true&theme=transparent) /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homekj&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
